@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2ac23279eb38d459",
+        "key": "BEAUTIFULPINKI1",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
